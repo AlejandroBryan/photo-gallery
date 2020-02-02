@@ -1,4 +1,6 @@
   lightbox.option({
       'resizeDuration': 200,
-      'wrapAround': false
+      'wrapAround': true,
+      "showImageNumberLabel" : true
+      
     });
