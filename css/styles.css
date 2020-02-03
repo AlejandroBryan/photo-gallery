@@ -24,9 +24,9 @@ body {
 	 margin: 0 auto;
  }
 
-input[type="search"] {
+#myInput{
 	width: 60%;
-	height: 50px;
+	height: 25px;
 	margin: 0 auto;
 	outline: 0;
 	overflow: hidden;
@@ -34,13 +34,11 @@ input[type="search"] {
 	padding: 15px;
 	box-shadow: 2px 2px 2px 1px rgb(89,255, 235, 0.5);
 	border-radius: 6%;
-	background-color: azure;
 	display: block;
 	align-items: center;
-
-	border: white;
-
+	border: white;	
 }
+
 
 
 .mygallery a {
@@ -68,7 +66,7 @@ img {
 		width: 80%;	
 	}
    
-	input[type="search"] {
+	#myInput {
 		width: 50%;	
 	}
 
