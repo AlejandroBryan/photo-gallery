@@ -33,7 +33,7 @@ body {
 	perspective: 1px;
 	padding: 15px;
 	box-shadow: 2px 2px 2px 1px rgb(89,255, 235, 0.5);
-	border-radius: 6%;
+	border-radius: 6px;
 	display: block;
 	align-items: center;
 	border: white;	
